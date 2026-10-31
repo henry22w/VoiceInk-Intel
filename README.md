@@ -1,6 +1,6 @@
 # VoiceInk Intel
 
-### VoiceInk 2.22 for Intel Macs (Unofficial, Experimental Build)
+### VoiceInk 2.22 for Intel Macs (Unofficial)
 
 I wanted to try [VoiceInk](https://github.com/Beingpax/VoiceInk) on my older Intel MacBook Pro, but I couldn't find an official Intel Mac download. Since VoiceInk's source code is available under GPLv3, I decided to try compiling it myself.
 
