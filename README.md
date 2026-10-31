@@ -132,7 +132,7 @@ If you find my Intel build helpful and would like to support my efforts, you can
 
 **[Support VoiceInk Intel on Ko-fi](https://ko-fi.com/henryyip1)**
 
-Donations are completely optional. But if you are going to donate please donate to the original developer first, he deserves it more.
+Donations are completely optional.
 
 **No payment or donation is required to download or use this GPLv3 build.**
 
@@ -154,5 +154,3 @@ Please open a GitHub Issue and include:
 - Any error messages or performance issues
 
 This information will help determine which Intel Macs are compatible with this experimental build.
-
-Hopefully, this project will be useful to other people who are still using older Macs!
