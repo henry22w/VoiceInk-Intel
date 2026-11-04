@@ -114,7 +114,7 @@ This Intel build is an independent community effort and is not affiliated with, 
 
 ## Support This Intel Build
 
-If you find my Intel build helpful and would like to support my efforts, you can make a optional voluntary donation of any amount through Ko-fi: **[Support VoiceInk Intel on Ko-fi](https://ko-fi.com/henryyip1)**
+If you find my Intel build helpful and would like to support my efforts, you can make a optional voluntary donation of any amount through Ko-fi: **[Support VoiceInk Intel on Ko-fi](https://ko-fi.com/henryy)**
 
 I spent time compiling, troubleshooting, and testing VoiceInk to make it accessible to people still using older Intel Macs.
 
