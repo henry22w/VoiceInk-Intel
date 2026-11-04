@@ -112,33 +112,13 @@ All credit for the original VoiceInk application belongs to its developer and co
 
 This Intel build is an independent community effort and is not affiliated with, sponsored by, or endorsed by the original developer.
 
-## Support the Original Developer
-
-VoiceInk was originally created by **Pax**, who has invested considerable time and effort into developing and maintaining the application.
-
-If you find VoiceInk useful, please consider supporting the original developer by purchasing a license through the official website:
-
-**[Support the Original VoiceInk Developer](https://tryvoiceink.com/pricing)**
-
-The official VoiceInk application offers one-time license purchases starting at approximately US$25, along with benefits such as automatic updates and support.
-
-Please note that the official commercial application is intended for Apple Silicon Macs. Purchasing a license does not make this unofficial Intel build an officially supported version.
-
 ## Support This Intel Build
+
+If you find my Intel build helpful and would like to support my efforts, you can make a optional voluntary donation of any amount through Ko-fi: **[Support VoiceInk Intel on Ko-fi](https://ko-fi.com/henryyip1)**
 
 I spent time compiling, troubleshooting, and testing VoiceInk to make it accessible to people still using older Intel Macs.
 
-If you find my Intel build helpful and would like to support my efforts, you can make a voluntary donation of any amount through Ko-fi:
-
-**[Support VoiceInk Intel on Ko-fi](https://ko-fi.com/henryyip1)**
-
-Donations are completely optional.
-
 **No payment or donation is required to download or use this GPLv3 build.**
-
-Donations to me are separate from purchases made through the official VoiceInk website and do not go to the original developer.
-
-Thank you to Pax and everyone who contributes to open-source software!
 
 ## Feedback and Compatibility Reports
 
