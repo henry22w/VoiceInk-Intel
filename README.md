@@ -1,4 +1,4 @@
-# VoiceInk Intel
+# VoiceInk Intel 
 
 ### VoiceInk 2.22 for Intel Macs (Unofficial)
 
