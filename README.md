@@ -96,22 +96,6 @@ Only bypass macOS security warnings for applications you trust.
 
 You can use this checksum to verify the integrity of your downloaded ZIP file.
 
-## Source Code and License
-
-**Original project:** https://github.com/Beingpax/VoiceInk
-
-**Original developer:** Pax and the VoiceInk contributors
-
-**License:** GNU General Public License v3.0 (GPLv3)
-
-This unofficial build is based on the original VoiceInk source code.
-
-The complete corresponding source code, including the dependency changes and applicable license notices, must be made available with the release in accordance with the GPLv3 license.
-
-All credit for the original VoiceInk application belongs to its developer and contributors.
-
-This Intel build is an independent community effort and is not affiliated with, sponsored by, or endorsed by the original developer.
-
 ## Support This Intel Build
 
 If you find my Intel build helpful and would like to support my efforts, you can make a optional voluntary donation of any amount through Ko-fi: **[Support VoiceInk Intel on Ko-fi](https://ko-fi.com/henryy)**
